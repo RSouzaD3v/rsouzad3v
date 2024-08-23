@@ -24,13 +24,3 @@ Sou Rafael Francisco Souza do Nascimento, um desenvolvedor Fullstack apaixonado 
 
 - LinkedIn: [Rafael Francisco Souza do Nascimento](https://www.linkedin.com/in/rafael-f-souza-022226255/)
 - Email: rsouzad3v@gmail.com
-
-### 💬 Idiomas
-
-Português, Inglês
-
-### 📈 Estatísticas do GitHub
-
-### 🔗 Links Rápidos
-
-- [Portfólio](https://markfy.online/)
